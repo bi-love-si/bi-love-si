@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, JavaScript, NodeJS, ReactJS, ExpressJS, NextJS, and free-fire game hacking.
 - 🌱 I’m currently learning C#.
 - 💞️ I'm staring at her every time.
-- 📫 BISI is combined from to name Bi???? and Si???.
+- 📫 BISI is made from a combination of two names Bi???? and Si???.
 
 <!---
 bi-love-si/bi-love-si is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
